@@ -6,6 +6,5 @@ Está curioso sobre minha Stack? PHP, Magento, Laravel e CodeIgniter ⚡
 
 ## Social Media
 
-* [@esjunior__](https://twitter.com/esjunior__) Twitter
 * [@esjunior](https://www.linkedin.com/in/esjunior/) Linkedin
-* [@edsns](https://www.facebook.com/edsns) Facebook
+* [@esjunior__](https://twitter.com/esjunior__) Twitter
