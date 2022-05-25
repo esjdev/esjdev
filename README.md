@@ -2,7 +2,7 @@
 
 Tudo bem? Sou apenas um Desenvolvedor Web que vive em SP 😄
 
-Está curioso sobre minha Stack? PHP, Magento, CodeIgniter e Laravel ⚡
+Está curioso sobre minha Stack? PHP, Magento, Laravel e CodeIgniter ⚡
 
 ## Social Media
 
